@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/picture[3].jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/OOP/lab3/lib/picture-doc%5B2%5D/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/data.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/OOP/lab3/lib/data-doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/OOP/lab3/lib/data-doc/index-files/index-1.html"/>
+	<classpathentry kind="lib" path="C:/OOP/lab3/lib/data-doc/index-files/index-2.html"/>
+	<classpathentry kind="lib" path="C:/OOP/lab3/lib/data-doc/index-files/index-3.html"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
